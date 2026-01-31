@@ -1,4 +1,4 @@
-# Probabilistic Decision Strategy for Financial Time Series
+# Probabilistic Trading Signal Discovery & Strategy Validation
 
 ## Executive Summary
 A research-driven framework for probabilistic modeling and decision analysis in dynamic financial environments.
